@@ -1,0 +1,26 @@
+{
+    "Home":"Anasayfa",
+    "Products":"Ürünler",
+    "News":"Haberler",
+    "Contact Us": "Bize Ulaşın",
+    "Lang":"Dil",
+    "Login":"Giriş",
+    "Name": "İsim",
+    "Email":"Email",
+    "Password":"Şifre",
+    "Phone":"Telefon",
+    "Country":"Ülke",
+    "Message":"Mesaj",
+    "Submit":"Gönder",
+    "Sign In":"Giriş",
+    "Select a country":"Bir ülke seçin",
+    "Enter name":"İsim girin",
+    "Enter email":"email girin",
+    "Enter phone number":"Telefon numarası girin",
+    "hometext":"Günümüz dünyasında savunma sanayii dünya ekonomisinin temel bir bileşeni ve güç dengelerinin ana kozlarından biri konumundadır. Savunma harcamaları ülkelerin silah teknolojilerindeki ilerleyişlerine rakip ülkelerin yanıt verme arayışlarından dolayı giderek artış göstermiştir. Bu yarış soğuk savaşın bitişinden bu yana bir takım yeni savunma doktrinleri doğuran teknolojik silahlanmanın habercisi olmuştur. Bu doktrinlerden birisi sıklıkla, geçtiğimiz yüzyılın en önemli askeri devrimi olarak değerlendirilen “platform-merkezli” harbe karşılık olarak “ağ-merkezli” harbin yükselişidir.",
+    "footertext":"Bu doktrin savunmada ağır sanayii kullanımından ziyade bilgi ve ağ-yönetimi üzerindeki eksiksiz kontrolün önemini vurgulamaktadır. Bahsi geçen bu değişim, ekonomik ve ticari gelgitlerden ve bilgi teknolojisindeki gelişmelerden beslenmiş ve bunlara katkıda bulunmuştur.",
+    "Please fill out this field":"Lütfen bu alanı doldurunuz",
+    "Please enter 10 number": "Lütfen 10 haneli numara giriniz",
+    "Please enter a valid email address":"Lütfen geçerli bir email adresi giriniz"
+
+}
